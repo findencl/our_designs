@@ -6,3 +6,11 @@
     background-blend-mode: color;
     background-color: #2a3180 !important;
 }
+
+.icons_shadow{
+      background-color: #520599;
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 15px 5px 30px #000c;
+}
+
