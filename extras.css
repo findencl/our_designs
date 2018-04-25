@@ -1,0 +1,8 @@
+  
+.multicons_bg { padding-top: 30px;
+    padding-bottom: 30px;
+    background-image: url("images/multicons.png");
+    background-size: 300px;
+    background-blend-mode: color;
+    background-color: #2a3180 !important;
+}
